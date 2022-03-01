@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>J. Russel, physician and ocultist, at the two blew-posts against Grays-Inn in Holbourn these pictures present what I have cured by manual operations besides such variety of other cures on the sick, lame, and blind ...</title>
+            <author>Russell, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09919</idno>
+            <idno type="STC">Wing R2342DA</idno>
+            <idno type="STC">ESTC R182897</idno>
+            <idno type="EEBO-CITATION">62369644</idno>
+            <idno type="OCLC">ocm 62369644</idno>
+            <idno type="VID">188118</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09919)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188118)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2855:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>J. Russel, physician and ocultist, at the two blew-posts against Grays-Inn in Holbourn these pictures present what I have cured by manual operations besides such variety of other cures on the sick, lame, and blind ...</title>
+                  <author>Russell, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Russell, John.</term>
+               <term>Advertising --  Medicine --  England --  17th century --  Early works to 1800.</term>
+               <term>Patent medicines --  England --  17th century --  Early works to 1800.</term>
+               <term>Medicine --  History --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188118:1"/>
+            <head>
+               <figure>
+                  <figDesc>border with historiated images of medical procedures, which surround the text</figDesc>
+                  <figure>
+                     <figDesc>central depiction of J. Russell, flanked on either side by images of chemical apparatus</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of man wearing a truss</figDesc>
+                     <head>A Rup<g ref="char:EOLunhyphen"/>ture cured</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of removal of tobacco pipe from victim's tongue</figDesc>
+                     <head>Tobacco pipe 4 inches long ſtruck in to the tongue lay ther 9 dayes was dumb an the while yet Cured.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of removal of cataract from blind man</figDesc>
+                     <head>Couching a Catract of one that had been blind 30 years</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of removal of a nasal polyp from male sufferer</figDesc>
+                     <head>The Polypus.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of trepanning the scull</figDesc>
+                     <head>Tre<g ref="char:EOLunhyphen"/>paning the ſcull</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of ocular surgery</figDesc>
+                     <head>A Carnoſity Cutting off the Eye</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of repair of anal fistula</figDesc>
+                     <head>Fiſtula in the Funda<g ref="char:EOLunhyphen"/>ment.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of repair of a hernia</figDesc>
+                     <head>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>-Rup<g ref="char:EOLhyphen"/>ture Cut<g ref="char:EOLunhyphen"/>ting</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of an obstetrical procedure</figDesc>
+                     <head>Tympany tapping</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of the removal of a massive wen</figDesc>
+                     <head>A Great Wenn Cutting off</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of the repair of a harelip</figDesc>
+                     <head>A Hare-lip.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of a cancerous breast being removed from a woman</figDesc>
+                     <head>A Cancerated breſt cut<g ref="char:EOLunhyphen"/>ting off and cured.</head>
+                  </figure>
+               </figure>
+            </head>
+            <head>
+               <hi>J. Ruſſell,</hi> Profeſſor of Phyſick, and Oculiſt.<lb/>
+At the Two Blew Poſts againſt <hi>Grays Inn</hi> in <hi>Holbourn.</hi>
+            </head>
+            <p>THeſe Pictures preſent what I have Cured by Manual Operations; Beſides ſuch Variety of other Cures on the Sick, Lame, and Blind,) by Medicinal Applications) that with<g ref="char:EOLhyphen"/>out boaſting, I may truly ſay, few has yet performed the like; yet ſome are to diſ<g ref="char:EOLhyphen"/>ingenuous, as to undervalue that they never did, cannot mend, or ever ſee done.</p>
+            <p>There is above 100 Diſeaſes of the Eyes and few underſtands their Cure, which cauſeth ſo many Blind that a good Oculiſt might have prevented; for its not enough to ſay he is a Linguiſt (if he have not ſtudied to be an Oculiſt) that will not ſerve the Patient, who cries, give me Eaſe and Sight, or elſe I am for ever blind.</p>
+            <p>Thoſe that are troubled with diſtempered Eyes, if they come in time may have Cure; I have cured many that have been blind 20 or 30 Years, 2 of them born Blind.</p>
+            <p>Many Ocular Diſeaſes are Cured by a Medicinal Application, ſome by Manual Opera<g ref="char:EOLhyphen"/>tion. In Couching of Cataracts, if they err little more than an hairs breadth, the Sight is for ever loſt, that might have been preſerved by a dextrous Hard: Some in Couching of Cataracts have diſtorted the Pupil of the Eye, rent and tore the <hi>
+                  <g ref="char:V">Ʋ</g>vea</hi> or <hi>Grape-Coat,</hi> made a confuſed mixture of the <hi>Aqueous, Vitreous</hi> or <hi>Albugineous</hi> Humors; rent and broke the Chriſtalline in ſunder, leaving ſuch an Inflammation on the <hi>Adnata,</hi> by their tedious turn<g ref="char:EOLhyphen"/>ing and twiſting their Inſtrument in the Eye, that the Inflammation is a long while a Curing. with extreme Pains of the Head, and loſ. of Sight for ever. Many miſtake the Ocular Ulcer for a common Speck; who by their Waters and Powders, Corrode the <hi>Adnata</hi> and <hi>Cornea</hi> aſunder; giving ſuch vent to the Humors in the Eye, that the Eye ſinks preſent<g ref="char:EOLhyphen"/>ly, never to be reſtored: Some by applying Corroſives to Ocular Ulcers, have dilated them over the whole <hi>Cornea,</hi> which if ever Cured, leaves an incurable Cicatrix or Scar, with perpetual loſs of Sight.</p>
+            <p>Several miſtake the Cicatrix or Sear, for a ſuperſinous thin Film, and have applyed Cor<g ref="char:EOLhyphen"/>roſives to eat it away, which hath cauſed an Ulcer where none was: Many by applying Corroſives to a <hi>Fiſtula Lachrymalis,</hi> have eaten away the <hi>Lachrymalis Glandules</hi> leaving for ever a continual flowing of Tears. Some have ſo exaſperated the Cancer in the Eye, that they have left it without either hopes of Recovery, or Palliating, but have miſerably periſhed: Several miſtake pockey Puſtules on the Eye-lid, and Venereal Ulcers, thinking to Cure them by common Medicines; (which will never do)</p>
+            <p>Although I mention but a few Diſeaſes here, yet my practice is in General on all Di<g ref="char:EOLhyphen"/>ſtempers both inward and outward that can afflict the Bodies of Men, Women and Chil<g ref="char:EOLhyphen"/>dren. For having ſuch proper Medicines ſo friendly to the Spirit of Life, that is moſt pro<g ref="char:EOLhyphen"/>bable to Cure all curable Diſtempers; therefore let none be afraid to come to me becauſe of the long continuance of their Diſtemper, for I have Cured many that have been given over by others as uncurable.</p>
+            <p>I ſhould have forborn Publiſhing Papers if I had not been Reported Dead, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <signed>Drawing Teeth with a Touch.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
